@@ -25,4 +25,11 @@ pkg install python-pip -y
 ```bash
 git clone https://github.com/nekomonTech/XnetStresserV3
 ```
-
+***Cd***
+```bash
+cd XnetStresserV3
+```
+***Jalankan Program***
+```bash
+python server.py
+```
