@@ -15,6 +15,14 @@ pkg install git -y
 ```bash
 pkg install python -y
 ```
-***Jika Ada owrtanyaan Y/n Ketik Y***
+***Install Pip (Wajib)***
+```bash
+pkg install python-pip -y
+```
+***Jika Ada pertanyaan Y/n Ketik Y***
 ### Instal Tools ###
-*** 
+***Git Clone***
+```bash
+git clone https://github.com/nekomonTech/XnetStresserV3
+```
+
