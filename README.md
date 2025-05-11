@@ -33,3 +33,6 @@ cd XnetStresserV3
 ```bash
 python server.py
 ```
+***Selesai***
+
+***Semua Bahasa Pemrograman***
