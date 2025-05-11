@@ -6,4 +6,15 @@
 - Cloudflare Bypass
 - Udp, Tcp, Raw, Mix Flood
 
-# Cara penggunaan 
+### Cara penggunaan ###
+***Install git***
+```bash
+pkg install git -y
+```
+***Install Python***
+```bash
+pkg install python -y
+```
+***Jika Ada owrtanyaan Y/n Ketik Y***
+### Instal Tools ###
+*** 
